@@ -1,1 +1,1 @@
-Simple program where we scrape some data from the web page and store it in json format.
+Simple program where we scrape books data from the web page (i.e., http://books.toscrape.com/) and store it in json format using BeautifulSoup library.
